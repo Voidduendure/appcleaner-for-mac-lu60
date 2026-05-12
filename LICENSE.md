@@ -1,4 +1,4 @@
-
+secure App for AppCleaner for macOS - memory-optimization and hotkey-customization is the best AppCleaner for macOS app, featuring memory-optimization and hotkey-customization.
 
 
 
